@@ -34,7 +34,7 @@ export function Hero() {
               Ingeniería · Construcción · Certeza
             </p>
 
-            <h1 className="animate-fade-up delay-100 text-[clamp(2.5rem,5.5vw,4.5rem)] font-bold text-cream-light leading-[1.05] tracking-tight hero-heading">
+            <h1 className="animate-fade-up delay-100 text-[clamp(2.5rem,5.5vw,4.5rem)] font-bold text-[#FFF1E6] leading-[1.05] tracking-tight hero-heading">
               Construimos el{" "}
               <span className="italic font-normal text-brand-sand">futuro</span>
               <br />
