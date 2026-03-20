@@ -7,7 +7,7 @@ export const SITE_CONFIG = {
     "Empresa mexicana de construcción e infraestructura con integración vertical completa. Producción de materiales, logística, ingeniería, construcción y supervisión bajo un mismo comando.",
   phone: "+52 55 5616 0991",
   phoneDisplay: "+52 55 5616 0991",
-  email: "central@ambit.solutions",
+  email: "rarroyo@ambit.solutions",
   address: {
     street: "Av. Insurgentes Sur 2117",
     colony: "San Ángel",
