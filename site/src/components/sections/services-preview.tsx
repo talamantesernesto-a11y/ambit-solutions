@@ -34,15 +34,15 @@ export function ServicesPreview() {
             Nuestros Servicios
           </p>
           <h2 className="mt-4 text-[clamp(2rem,3.5vw,3rem)] font-bold text-secondary-dark leading-[1.1]">
-            Soluciones integrales
+            Cadena de valor
             <br />
-            <span className="italic font-normal text-brand-stone">de construcción</span>
+            <span className="italic font-normal text-brand-stone">completa</span>
           </h2>
           <div className="mt-6 w-16 h-[2px] bg-primary animate-draw-line" />
           <p className="mt-6 text-[15px] text-secondary-light leading-relaxed">
-            Participamos activamente en toda la cadena de valor, desde la
-            planeación hasta la entrega, con control total de calidad y
-            eficiencia.
+            No subcontratamos lo crítico. Producimos, logisticamos, construimos,
+            supervisamos y aseguramos. Cada eslabón bajo nuestro control — y
+            bajo nuestra responsabilidad.
           </p>
         </div>
 
@@ -72,7 +72,7 @@ export function ServicesPreview() {
             href="/servicios"
             className="group inline-flex items-center gap-3 text-[13px] font-semibold uppercase tracking-[0.15em] text-secondary-dark hover:text-primary transition-colors duration-300"
           >
-            Conocer todos los servicios
+            Ver la cadena de valor completa
             <svg className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
             </svg>

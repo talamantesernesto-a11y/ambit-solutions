@@ -4,7 +4,7 @@ export const SITE_CONFIG = {
   domain: "ambit.solutions",
   url: "https://ambit.solutions",
   description:
-    "Empresa mexicana de ingeniería y construcción. Más de una década construyendo proyectos industriales, infraestructura y vivienda social con calidad, innovación y compromiso.",
+    "Empresa mexicana de construcción e infraestructura con integración vertical completa. Producción de materiales, logística, ingeniería, construcción y supervisión bajo un mismo comando.",
   phone: "+52 55 5616 0991",
   phoneDisplay: "+52 55 5616 0991",
   email: "central@ambit.solutions",
@@ -33,35 +33,35 @@ export const NAV_LINKS = [
 ] as const;
 
 export const METRICS = [
-  { value: "10+", label: "Años de experiencia" },
-  { value: "1,436", label: "Viviendas en desarrollo" },
+  { value: "25+", label: "Años construyendo México" },
+  { value: "1,436", label: "Viviendas CONAVI 2025" },
   { value: "4", label: "Aeropuertos construidos" },
-  { value: "15+", label: "Estados con presencia" },
+  { value: "25+", label: "Estados con presencia" },
 ] as const;
 
 export const SERVICES = [
   {
     title: "Vivienda",
     description:
-      "Construcción de vivienda accesible, social y habitacional. Conjuntos y desarrollos a escala media, urbanos y periurbanos.",
+      "1,436 viviendas en desarrollo para CONAVI en Michoacán, Guanajuato y Nuevo León. Conjuntos habitacionales con materiales propios desde nuestras plantas de producción.",
     icon: "home",
   },
   {
     title: "Infraestructura",
     description:
-      "Infraestructura urbana y equipamiento público. Proyectos aeroportuarios, vialidades y obra civil de alto impacto.",
+      "Aeropuertos en Silao, Mérida, Mexicali y Zacatecas. Vialidades y obra civil de alto impacto con capacidad de operación simultánea en múltiples estados.",
     icon: "building",
   },
   {
     title: "Espacios Comunitarios",
     description:
-      "Espacios educativos y comunitarios que fortalecen el tejido social. Escuelas, centros de salud y equipamiento urbano.",
+      "Centro Comunitario Piedra Hincada: 13 aulas en 24 días. Escuelas y equipamiento que fortalecen el tejido social donde más se necesita.",
     icon: "users",
   },
   {
     title: "Supervisión de Obra",
     description:
-      "Supervisión, control y gestión integral de obra con plataforma digital de monitoreo en tiempo real.",
+      "Control integral con plataforma digital de georreferenciación y monitoreo en tiempo real. Nadie verifica mejor una obra que quien conoce cada proceso por dentro.",
     icon: "clipboard",
   },
 ] as const;

@@ -79,14 +79,14 @@ export default function ProyectosPage() {
             Portafolio
           </p>
           <h1 className="animate-fade-up delay-100 mt-4 text-[clamp(2.5rem,5vw,4rem)] font-bold text-white max-w-3xl leading-[1.08]">
-            Proyectos que
+            Lo que hemos construido
             <br />
-            <span className="italic font-normal text-brand-sand">transforman comunidades</span>
+            <span className="italic font-normal text-brand-sand">habla por nosotros</span>
           </h1>
           <p className="animate-fade-up delay-200 mt-8 text-[17px] text-secondary-200 max-w-xl leading-relaxed">
-            Cada proyecto AMBIT busca generar estabilidad, arraigo y sentido de
-            pertenencia. Nuestra huella abarca más de 15 estados de la República
-            Mexicana.
+            Aeropuertos, desarrollos habitacionales y centros comunitarios en
+            más de 25 estados de México — y en la memoria de las comunidades
+            que los usan cada día.
           </p>
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-[3px] bg-gradient-to-r from-brand-terracotta via-primary to-brand-sand" />

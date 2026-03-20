@@ -15,13 +15,16 @@ export function CTA() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-7">
             <h2 className="text-[clamp(2rem,3.5vw,3rem)] font-bold text-white leading-[1.1]">
-              ¿Listo para construir
+              ¿Tienes un proyecto
               <br />
-              <span className="italic font-normal text-brand-sand">tu próximo proyecto?</span>
+              <span className="italic font-normal text-brand-sand">en mente?</span>
             </h2>
             <p className="mt-6 text-[16px] text-secondary-200 max-w-lg leading-relaxed">
-              Cada proyecto empieza con una conversación. Cuéntanos qué necesitas y
-              te ayudamos a hacerlo realidad.
+              Cuéntanos el reto. Nuestro equipo evalúa tu proyecto sin costo y
+              te propone la mejor ruta de ejecución desde la cadena de valor AMBIT.
+            </p>
+            <p className="mt-3 text-[13px] text-secondary-200/60 tracking-wide">
+              Respondemos en menos de 24 horas hábiles.
             </p>
           </div>
 
@@ -30,7 +33,7 @@ export function CTA() {
               href="/contacto"
               className="group inline-flex items-center justify-center bg-primary px-8 py-4 text-[13px] font-semibold uppercase tracking-[0.15em] text-white hover:bg-primary-dark transition-all duration-300"
             >
-              Solicitar Cotización
+              Solicitar Evaluación de Proyecto
               <svg className="ml-3 h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
               </svg>

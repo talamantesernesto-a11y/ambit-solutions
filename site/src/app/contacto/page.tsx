@@ -61,12 +61,12 @@ export default function ContactoPage() {
             Contacto
           </p>
           <h1 className="animate-fade-up delay-100 mt-4 text-[clamp(2.5rem,5vw,4rem)] font-bold text-white max-w-3xl leading-[1.08]">
-            ¿Listo para{" "}
-            <span className="italic font-normal text-brand-sand">construir?</span>
+            Cuéntanos{" "}
+            <span className="italic font-normal text-brand-sand">el reto</span>
           </h1>
           <p className="animate-fade-up delay-200 mt-8 text-[17px] text-secondary-200 max-w-xl leading-relaxed">
-            Cada proyecto empieza con una conversación. Cuéntanos qué necesitas y
-            nuestro equipo se pondrá en contacto contigo.
+            Nuestro equipo evalúa tu proyecto sin costo y te propone la mejor
+            ruta de ejecución. Respondemos en menos de 24 horas hábiles.
           </p>
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-[3px] bg-gradient-to-r from-brand-terracotta via-primary to-brand-sand" />

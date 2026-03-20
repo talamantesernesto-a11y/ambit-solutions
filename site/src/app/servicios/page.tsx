@@ -7,7 +7,7 @@ import { IMAGES } from "@/lib/images";
 export const metadata: Metadata = {
   title: "Servicios",
   description:
-    "Servicios integrales de construcción: vivienda, infraestructura, espacios comunitarios y supervisión de obra. Cadena de valor completa.",
+    "Cadena de valor completa: producción de materiales, logística, ingeniería, construcción, supervisión y seguridad. Plantas propias en Querétaro y Saltillo.",
 };
 
 const CADENA_DE_VALOR = [
@@ -15,25 +15,25 @@ const CADENA_DE_VALOR = [
     step: "01",
     title: "Producción de Materiales",
     description:
-      "Producción propia que nos permite controlar calidad, tiempos y costos desde el origen.",
+      "Plantas propias en Querétaro y Saltillo. Producción controlada desde el origen para garantizar calidad y tiempos.",
   },
   {
     step: "02",
     title: "Logística y Control de Inventarios",
     description:
-      "Gestión eficiente de la cadena de suministro con trazabilidad completa.",
+      "Distribución y suministro coordinado para mantener el ritmo de obra. Sin interrupciones, con trazabilidad completa.",
   },
   {
     step: "03",
     title: "Ejecución Constructiva",
     description:
-      "Procesos estandarizados con equipos especializados y tecnología de monitoreo.",
+      "Equipos especializados y procesos estandarizados. Centro Comunitario Piedra Hincada: 13 aulas en 24 días.",
   },
   {
     step: "04",
     title: "Supervisión y Entrega",
     description:
-      "Control integral mediante herramientas digitales de georreferenciación y validación en tiempo real.",
+      "Plataforma digital de georreferenciación y validación en tiempo real. Nadie verifica mejor una obra que quien construyó cada proceso.",
   },
 ];
 
@@ -56,15 +56,15 @@ export default function ServiciosPage() {
             Nuestros Servicios
           </p>
           <h1 className="animate-fade-up delay-100 mt-4 text-[clamp(2.5rem,5vw,4rem)] font-bold text-white max-w-3xl leading-[1.08]">
-            Soluciones{" "}
-            <span className="italic font-normal text-brand-sand">integrales</span>
+            Cadena de valor{" "}
+            <span className="italic font-normal text-brand-sand">completa</span>
             <br />
-            de construcción
+            para tus proyectos
           </h1>
           <p className="animate-fade-up delay-200 mt-8 text-[17px] text-secondary-200 max-w-xl leading-relaxed">
-            AMBIT ofrece servicios integrales enfocados en vivienda,
-            infraestructura urbana y espacios educativos. Nuestra capacidad
-            operativa nos permite atender proyectos públicos y privados.
+            Producimos materiales, gestionamos logística, diseñamos, construimos,
+            supervisamos y aseguramos. Cada eslabón bajo un mismo comando.
+            Proyectos públicos y privados en más de 25 estados.
           </p>
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-[3px] bg-gradient-to-r from-brand-terracotta via-primary to-brand-sand" />
@@ -109,9 +109,9 @@ export default function ServiciosPage() {
             </h2>
             <div className="mt-6 w-16 h-[2px] bg-primary" />
             <p className="mt-6 text-[15px] text-secondary-light leading-relaxed">
-              AMBIT participa activamente en toda la cadena de valor de la
-              vivienda, lo que nos permite mayor control, eficiencia y calidad en
-              cada proyecto.
+              En la industria de la construcción, la fragmentación es la norma.
+              AMBIT rompe ese modelo. Controlamos los 4 eslabones críticos bajo
+              una sola cuenta de resultados.
             </p>
           </div>
 

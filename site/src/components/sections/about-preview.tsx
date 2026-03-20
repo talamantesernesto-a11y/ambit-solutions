@@ -13,28 +13,28 @@ export function AboutPreview() {
               Sobre AMBIT
             </p>
             <h2 className="mt-4 text-[clamp(2rem,3.5vw,3rem)] font-bold text-secondary-dark leading-[1.1]">
-              Nuestra razón
+              Integración vertical
               <br />
-              <span className="italic font-normal text-brand-stone">de ser</span>
+              <span className="italic font-normal text-brand-stone">real</span>
             </h2>
             <div className="mt-6 w-16 h-[2px] bg-primary animate-draw-line" />
 
             <div className="mt-8 space-y-5">
               <p className="text-[15px] text-secondary-light leading-relaxed">
-                AMBIT nace con la convicción de que la construcción es una
-                herramienta de transformación social y económica. Desde nuestros
-                inicios hemos trabajado en proyectos de infraestructura, vivienda
-                y equipamiento social que responden a necesidades reales.
+                AMBIT controla toda la cadena: desde plantas de producción
+                propias en Querétaro y Saltillo, hasta la supervisión final de
+                obra. Sin intermediarios. Sin sorpresas.
               </p>
               <p className="text-[15px] text-secondary leading-relaxed border-accent">
-                En AMBIT entendemos que la vivienda es el punto de partida de la
-                estabilidad, la dignidad y el desarrollo de las personas.
+                Construimos para Nestlé, para CONAVI, para aeropuertos federales
+                y para comunidades que necesitan infraestructura digna. Cada
+                proyecto lleva el mismo estándar.
               </p>
             </div>
 
             {/* Values */}
             <div className="mt-10 grid grid-cols-2 gap-x-8 gap-y-5">
-              {["Confianza", "Calidad", "Servicio", "Certeza"].map((value) => (
+              {["Integración vertical", "Plantas propias", "En tiempo y presupuesto", "Certeza de entrega"].map((value) => (
                 <div key={value} className="flex items-center gap-3">
                   <div className="w-1.5 h-1.5 bg-primary rotate-45 shrink-0" />
                   <span className="text-[14px] font-medium text-secondary-dark tracking-wide">
@@ -48,7 +48,7 @@ export function AboutPreview() {
               href="/nosotros"
               className="group mt-12 inline-flex items-center gap-3 text-[13px] font-semibold uppercase tracking-[0.15em] text-secondary-dark hover:text-primary transition-colors duration-300"
             >
-              Conocer más
+              Conocer nuestra historia
               <svg className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
               </svg>

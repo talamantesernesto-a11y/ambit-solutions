@@ -22,8 +22,8 @@ export function Footer() {
               className="h-9 w-auto"
             />
             <p className="mt-6 text-[15px] text-secondary-200 leading-relaxed max-w-sm">
-              Construcción consciente, espacios que trascienden. Más de una
-              década construyendo el futuro de México.
+              Cadena de valor completa. Un solo interlocutor. Certeza de entrega.
+              +25 años construyendo el futuro de México.
             </p>
           </div>
 

@@ -7,7 +7,7 @@ import { IMAGES } from "@/lib/images";
 export const metadata: Metadata = {
   title: "Nosotros",
   description:
-    "Conoce a AMBIT: nuestra misión, visión y el equipo detrás de más de una década de construcción con impacto social en México.",
+    "Conoce a AMBIT: integración vertical completa, plantas propias de producción en Querétaro y Saltillo, y +25 años construyendo México.",
 };
 
 export default function NosotrosPage() {
@@ -29,13 +29,13 @@ export default function NosotrosPage() {
             Sobre Nosotros
           </p>
           <h1 className="animate-fade-up delay-100 mt-4 text-[clamp(2.5rem,5vw,4rem)] font-bold text-white max-w-3xl leading-[1.08]">
-            Construimos el futuro
+            De una idea a una cadena de valor
             <br />
-            <span className="italic font-normal text-brand-sand">de México, una obra a la vez</span>
+            <span className="italic font-normal text-brand-sand">que construye México</span>
           </h1>
           <p className="animate-fade-up delay-200 mt-8 text-[17px] text-secondary-200 max-w-xl leading-relaxed">
-            AMBIT nace con la convicción de que la construcción es una
-            herramienta de transformación social y económica.
+            Plantas propias de producción. Integración vertical completa.
+            +25 años entregando en tiempo y en presupuesto.
           </p>
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-[3px] bg-gradient-to-r from-brand-terracotta via-primary to-brand-sand" />
@@ -54,11 +54,11 @@ export default function NosotrosPage() {
               </h2>
               <div className="mt-4 w-12 h-[2px] bg-primary" />
               <p className="mt-6 text-[15px] text-secondary-light leading-[1.8]">
-                En AMBIT construimos espacios que elevan la calidad de vida y
-                fortalecen el tejido social de México. Creamos viviendas,
-                escuelas e infraestructura con procesos innovadores, materiales
-                de alta calidad y una operación íntegra, para que cada comunidad
-                tenga acceso a entornos seguros, dignos y sostenibles.
+                AMBIT construye viviendas, escuelas, aeropuertos e
+                infraestructura con materiales propios producidos en nuestras
+                plantas de Querétaro y Saltillo. Controlamos cada eslabón de la
+                cadena para que cada comunidad tenga acceso a entornos seguros,
+                dignos y sostenibles.
               </p>
             </div>
             <div className="animate-slide-right">
@@ -70,11 +70,11 @@ export default function NosotrosPage() {
               </h2>
               <div className="mt-4 w-12 h-[2px] bg-primary" />
               <p className="mt-6 text-[15px] text-secondary-light leading-[1.8]">
-                Ser la empresa constructora mexicana que transforma el futuro del
-                país, liderando el desarrollo de proyectos accesibles,
-                sustentables y de alto impacto social. Aspiramos a crear un
-                México donde cada persona viva, aprenda y crezca en espacios
-                diseñados para su bienestar y para el progreso colectivo.
+                Ser la constructora mexicana con integración vertical que
+                transforma el futuro del país. Proyectos accesibles,
+                sustentables y de alto impacto social — entregados en tiempo y
+                en presupuesto. Un México donde cada persona viva, aprenda y
+                crezca en espacios diseñados para su bienestar.
               </p>
             </div>
           </div>
@@ -170,9 +170,9 @@ export default function NosotrosPage() {
               <span className="italic font-normal text-brand-stone">Huella</span>
             </h2>
             <p className="mt-6 text-[15px] text-secondary-light leading-relaxed">
-              A lo largo de nuestro trayecto, hemos tenido la oportunidad de
-              trabajar en diversas zonas de la República Mexicana, entregando
-              proyectos de alto valor e impacto para las comunidades.
+              Más de 25 estados de la República Mexicana. Aeropuertos en Silao,
+              Mérida, Mexicali y Zacatecas. Vivienda social en Michoacán,
+              Guanajuato y Nuevo León. Obra comunitaria en Puebla.
             </p>
           </div>
           <div className="mt-16 aspect-[16/9] max-w-4xl mx-auto bg-brand-cream/50 border border-brand-warm flex items-center justify-center">
