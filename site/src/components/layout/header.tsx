@@ -30,12 +30,12 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Image
-              src="/images/logo-ambit.svg"
+              src="/images/logo-ambit.png"
               alt="AMBIT"
-              width={140}
-              height={40}
+              width={180}
+              height={50}
               priority
-              className="h-9 w-auto"
+              className="h-10 w-auto"
             />
           </Link>
 

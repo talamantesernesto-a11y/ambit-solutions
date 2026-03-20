@@ -15,11 +15,11 @@ export function Footer() {
           {/* Brand — wider column */}
           <div className="md:col-span-5">
             <Image
-              src="/images/logo-ambit-white.svg"
+              src="/images/logo-ambit.png"
               alt="AMBIT"
-              width={140}
-              height={40}
-              className="h-9 w-auto"
+              width={180}
+              height={50}
+              className="h-10 w-auto brightness-0 invert"
             />
             <p className="mt-6 text-[15px] text-secondary-200 leading-relaxed max-w-sm">
               Cadena de valor completa. Un solo interlocutor. Certeza de entrega.
