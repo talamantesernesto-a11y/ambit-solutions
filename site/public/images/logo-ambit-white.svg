@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" fill="none">
+  <!-- AMBIT Symbol — "A" / House shape with inner cutout -->
+  <g>
+    <!-- Outer triangle with inner cutout (evenodd creates the hole) -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M32 3L61 46H3L32 3ZM32 22L46 42H18L32 22Z" fill="#C17A3E"/>
+    <!-- Foundation bar (trapezoid) -->
+    <path d="M7 50H57L53 58H11L7 50Z" fill="#C17A3E"/>
+  </g>
+  <!-- AMBIT wordmark in white -->
+  <text x="78" y="48" font-family="'Gotham', 'DM Sans', sans-serif" font-size="34" font-weight="700" letter-spacing="10" fill="#FFFFFF">AMBIT</text>
+</svg>

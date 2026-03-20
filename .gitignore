@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+.claude/
+*.log
+
+# Brand assets (heavy binaries — keep local only)
+context/Reestilización de marca AMBIT/
