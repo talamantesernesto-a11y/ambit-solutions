@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- AMBIT symbol — triangle with "A" cutout + foundation bar -->
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M32 4L60 48H4L32 4ZM32 24L45 44H19L32 24Z" fill="#C17A3E"/>
+  <path d="M8 52H56L52 60H12L8 52Z" fill="#C17A3E"/>
+</svg>
