@@ -61,17 +61,19 @@
 }
 
 /* === Base Styles === */
-body {
-  background: var(--color-background);
-  color: var(--color-foreground);
-  font-family: var(--font-sans), system-ui, sans-serif;
-  letter-spacing: -0.01em;
-}
+@layer base {
+  body {
+    background: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans), system-ui, sans-serif;
+    letter-spacing: -0.01em;
+  }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-heading), Georgia, serif;
-  color: var(--color-secondary-dark);
-  letter-spacing: -0.025em;
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading), Georgia, serif;
+    color: var(--color-secondary-dark);
+    letter-spacing: -0.025em;
+  }
 }
 
 /* === Smooth scroll === */
