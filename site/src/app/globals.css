@@ -214,3 +214,8 @@ body::before {
   border-left: 3px solid var(--color-brand-terracotta);
   padding-left: 1.25rem;
 }
+
+/* === Hero text shadow for readability === */
+.hero-heading {
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.4), 0 1px 3px rgba(0, 0, 0, 0.3);
+}

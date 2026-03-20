@@ -15,7 +15,7 @@ export function Hero() {
         sizes="100vw"
       />
       {/* Atmospheric overlays */}
-      <div className="absolute inset-0 bg-gradient-to-br from-secondary-dark/90 via-secondary-dark/80 to-brand-terracotta/30" />
+      <div className="absolute inset-0 bg-gradient-to-br from-secondary-dark/95 via-secondary-dark/90 to-brand-terracotta/40" />
       <div className="absolute bottom-0 left-0 w-full h-1/3 bg-gradient-to-t from-black/40 to-transparent" />
       {/* Diagonal line motif */}
       <div className="absolute top-0 right-0 w-1/2 h-full opacity-[0.04]">
@@ -34,7 +34,7 @@ export function Hero() {
               Ingeniería · Construcción · Certeza
             </p>
 
-            <h1 className="animate-fade-up delay-100 text-[clamp(2.5rem,5.5vw,4.5rem)] font-bold text-white leading-[1.05] tracking-tight">
+            <h1 className="animate-fade-up delay-100 text-[clamp(2.5rem,5.5vw,4.5rem)] font-bold text-white leading-[1.05] tracking-tight hero-heading">
               Construimos el{" "}
               <span className="italic font-normal text-brand-sand">futuro</span>
               <br />

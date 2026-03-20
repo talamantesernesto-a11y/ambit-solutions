@@ -23,12 +23,12 @@ export default function NosotrosPage() {
           className="object-cover opacity-15"
           sizes="100vw"
         />
-        <div className="absolute inset-0 bg-gradient-to-br from-secondary-dark/90 to-brand-terracotta/20" />
+        <div className="absolute inset-0 bg-gradient-to-br from-secondary-dark/95 via-secondary-dark/90 to-brand-terracotta/30" />
         <div className="relative mx-auto max-w-7xl px-6 lg:px-8">
           <p className="animate-fade-up text-[11px] font-semibold uppercase tracking-[0.3em] text-brand-sand">
             Sobre Nosotros
           </p>
-          <h1 className="animate-fade-up delay-100 mt-4 text-[clamp(2.5rem,5vw,4rem)] font-bold text-white max-w-3xl leading-[1.08]">
+          <h1 className="animate-fade-up delay-100 mt-4 text-[clamp(2.5rem,5vw,4rem)] font-bold text-white max-w-3xl leading-[1.08] hero-heading">
             De una idea a una cadena de valor
             <br />
             <span className="italic font-normal text-brand-sand">que construye México</span>
