@@ -28,6 +28,9 @@
   --color-brand-warm: #E7DED4;
   --color-brand-cream: #F4EFEA;
 
+  /* Hero text — warm cream for dark backgrounds */
+  --color-cream-light: #FFF1E6;
+
   /* Neutrals */
   --color-white: #FFFFFF;
   --color-black: #1A1A1A;

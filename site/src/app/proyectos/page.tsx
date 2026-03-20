@@ -78,7 +78,7 @@ export default function ProyectosPage() {
           <p className="animate-fade-up text-[11px] font-semibold uppercase tracking-[0.3em] text-brand-sand">
             Portafolio
           </p>
-          <h1 className="animate-fade-up delay-100 mt-4 text-[clamp(2.5rem,5vw,4rem)] font-bold text-white max-w-3xl leading-[1.08] hero-heading">
+          <h1 className="animate-fade-up delay-100 mt-4 text-[clamp(2.5rem,5vw,4rem)] font-bold text-cream-light max-w-3xl leading-[1.08] hero-heading">
             Lo que hemos construido
             <br />
             <span className="italic font-normal text-brand-sand">habla por nosotros</span>
